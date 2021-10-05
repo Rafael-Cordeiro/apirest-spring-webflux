@@ -1,5 +1,8 @@
 package com.temperosoft.webflux.repository;
 
-public class PlaylistRepository {
+import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
+import com.temperosoft.webflux.document.Playlist;
+
+public interface PlaylistRepository extends ReactiveMongoRepository<Playlist, String> {
 
 }
