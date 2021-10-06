@@ -1,6 +1,8 @@
 com/temperosoft/webflux/controller/PlaylistController.class
 com/temperosoft/webflux/services/PlaylistServiceImpl.class
+com/temperosoft/webflux/PlaylistHandler.class
 com/temperosoft/webflux/repository/PlaylistRepository.class
 com/temperosoft/webflux/services/PlaylistService.class
+com/temperosoft/webflux/PlaylistRouter.class
 com/temperosoft/webflux/WebfluxApplication.class
 com/temperosoft/webflux/document/Playlist.class
