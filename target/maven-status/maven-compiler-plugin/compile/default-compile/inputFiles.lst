@@ -1,3 +1,7 @@
+/home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/controller/PlaylistController.java
 /home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/document/Playlist.java
+/home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/services/PlaylistService.java
+/home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/services/PlaylistServiceImpl.java
+/home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/DummyData.java
 /home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/WebfluxApplication.java
 /home/rafael/private-repos/apirest-spring-webflux/src/main/java/com/temperosoft/webflux/repository/PlaylistRepository.java

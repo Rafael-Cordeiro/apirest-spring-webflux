@@ -1,7 +1,17 @@
 package com.temperosoft.webflux;
 
+//import java.util.UUID;
+//
+//import org.springframework.boot.CommandLineRunner;
+//import org.springframework.stereotype.Component;
+//
+//import com.temperosoft.webflux.document.Playlist;
+//import com.temperosoft.webflux.repository.PlaylistRepository;
+//
+//import reactor.core.publisher.Flux;
+//
 //@Component
-//public class DummyData  implements CommandLineRunner{
+//public class DummyData implements CommandLineRunner {
 //	
 //	private final PlaylistRepository playlistRepository;
 //	
@@ -23,3 +33,4 @@ package com.temperosoft.webflux;
 //
 //
 //}
+
